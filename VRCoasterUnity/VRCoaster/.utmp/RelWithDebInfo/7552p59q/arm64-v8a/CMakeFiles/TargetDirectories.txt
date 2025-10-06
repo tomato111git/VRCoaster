@@ -1,0 +1,8 @@
+/Users/eidai/Documents/VRCoaster/VRCoasterUnity/VRCoaster/.utmp/RelWithDebInfo/7552p59q/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/eidai/Documents/VRCoaster/VRCoasterUnity/VRCoaster/.utmp/RelWithDebInfo/7552p59q/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/eidai/Documents/VRCoaster/VRCoasterUnity/VRCoaster/.utmp/RelWithDebInfo/7552p59q/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/eidai/Documents/VRCoaster/VRCoasterUnity/VRCoaster/.utmp/RelWithDebInfo/7552p59q/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/eidai/Documents/VRCoaster/VRCoasterUnity/VRCoaster/.utmp/RelWithDebInfo/7552p59q/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+/Users/eidai/Documents/VRCoaster/VRCoasterUnity/VRCoaster/.utmp/RelWithDebInfo/7552p59q/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/eidai/Documents/VRCoaster/VRCoasterUnity/VRCoaster/.utmp/RelWithDebInfo/7552p59q/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/eidai/Documents/VRCoaster/VRCoasterUnity/VRCoaster/.utmp/RelWithDebInfo/7552p59q/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
